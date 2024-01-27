@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../saglikver"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "saglik"
+	}
+}
